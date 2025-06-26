@@ -78,6 +78,7 @@ The visual dashboard includes:
 - Indian cuisine is the most commonly served across cities.
 - Higher cost or a greater number of cuisines does not necessarily lead to higher ratings.
 
-Author
-Vijeta Singh Rajput
+## Author
+
+**Vijeta Singh Rajput**  
 https://www.linkedin.com/in/viijetar/
