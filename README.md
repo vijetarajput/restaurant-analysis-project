@@ -70,6 +70,12 @@ The visual dashboard includes:
   
 > Link to Tableau Public Dashboard: https://public.tableau.com/app/profile/viijeta.r/viz/Project-RestaurantInsights/Dashboard1?publish=yes
 
+## 🖼 Sample Dashboard View
+
+###  Desktop Layout
+
+![Dashboard Screenshot](screenshots/Screenshot.png)
+
 ## Key Insights
 
 - Majority of restaurants are concentrated in a few cities.
