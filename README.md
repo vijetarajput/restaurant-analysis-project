@@ -67,6 +67,7 @@ The visual dashboard includes:
 - **Rating vs Table Booking**: Bar chart comparing ratings between restaurants that offer or don't offer table booking.
 - **Rating vs Number of Cuisines**: Bar chart to explore how the variety of cuisines served affects restaurant ratings.
 - **Top 10 Restaurants**: Bar chart highlighting the highest-rated restaurants based on key metrics.
+  
 > Link to Tableau Public Dashboard: https://public.tableau.com/app/profile/viijeta.r/viz/Project-RestaurantInsights/Dashboard1?publish=yes
 
 ## Key Insights
@@ -76,3 +77,7 @@ The visual dashboard includes:
 - Delivery and Table booking has a slight correlation with number of votes.
 - Indian cuisine is the most commonly served across cities.
 - Higher cost or a greater number of cuisines does not necessarily lead to higher ratings.
+
+Author
+Vijeta Singh Rajput
+https://www.linkedin.com/in/viijetar/
