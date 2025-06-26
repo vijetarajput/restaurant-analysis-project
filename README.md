@@ -73,7 +73,6 @@ The visual dashboard includes:
 ## 🖼 Sample Dashboard View
 
 ###  Desktop Layout
-
 ![Dashboard Screenshot](Screenshot.png)
 
 ## Key Insights
