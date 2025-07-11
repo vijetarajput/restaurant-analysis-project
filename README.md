@@ -68,7 +68,8 @@ The visual dashboard includes:
 - **Rating vs Number of Cuisines**: Bar chart to explore how the variety of cuisines served affects restaurant ratings.
 - **Top 10 Restaurants**: Bar chart highlighting the highest-rated restaurants based on key metrics.
   
-> Link to Tableau Public Dashboard: https://public.tableau.com/app/profile/viijeta.r/viz/Project-RestaurantInsights/Dashboard1?publish=yes
+> Link to Tableau Public Dashboard:
+[View Dashboard on Tableau Public](https://public.tableau.com/app/profile/viijeta.r/viz/Project-RestaurantInsights/Dashboard1?publish=yes)
 
 ## Sample Dashboard View
 
@@ -86,4 +87,5 @@ The visual dashboard includes:
 ## Author
 
 **Vijeta Singh Rajput**  
+Tools: Python | Tableau | SQL | Power BI | Excel
 https://www.linkedin.com/in/viijetar/
